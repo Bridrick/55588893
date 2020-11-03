@@ -1,0 +1,82 @@
+#ukr1{
+    height: 300px;
+    background-color: blue;}
+#ukr2{
+    height: 300px;
+    background-color: yellow;}
+
+#ru1{
+    height:200px;
+    background-color: white;}
+#ru2{
+    height:200px;
+    background-color: blue;}
+#ru3{
+    height:200px;
+    background-color: red;}
+
+#arg1{
+    height:250px;
+    background-color: blue;}
+#arg2{
+    height:100px;
+    background-color: white;}
+#arg3{
+    height:250px;
+    background-color: blue;}
+
+#ger1{
+    height:200px;
+    background-color: black;}
+#ger2{
+    height:200px;
+    background-color: red;}
+#ger3{
+    height: 200px;
+    background-color: yellow;}
+
+#bol1{
+    height: 200px;
+    background-color: white;}
+#bol2{
+    height: 200px;
+    background-color: green;}
+#bol3{
+    height: 200px;
+    background-color: red;}
+
+#sp{
+    height: 150px;
+    background-color: red;}
+#sp{
+    height: 300px;
+    background-color: yellow;}
+#sp{
+    height: 150px;
+    background-color: red;}
+
+#fr1{
+    height: 600px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;}
+#fr2{
+    height: 600px;
+    width: 200px;
+    background-color: white ;
+    display: inline-block;}
+#fr3{
+    height: 600px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;}
+
+
+#egy1{}
+#egy2{}
+#egy3{}
+
+
+
+
+
